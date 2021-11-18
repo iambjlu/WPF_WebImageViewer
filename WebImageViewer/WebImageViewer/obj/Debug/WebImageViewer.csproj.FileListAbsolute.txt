@@ -1,0 +1,14 @@
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\bin\Debug\WebImageViewer.exe.config
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\bin\Debug\WebImageViewer.exe
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\bin\Debug\WebImageViewer.pdb
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\WebImageViewer.csproj.AssemblyReference.cache
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\MainWindow.g.cs
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\App.g.cs
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\WebImageViewer_MarkupCompile.cache
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\MainWindow.baml
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\WebImageViewer.g.resources
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\WebImageViewer.Properties.Resources.resources
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\WebImageViewer.csproj.GenerateResource.cache
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\WebImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\WebImageViewer.exe
+C:\Users\WMSLAB\source\repos\WebImageViewer\WebImageViewer\obj\Debug\WebImageViewer.pdb
